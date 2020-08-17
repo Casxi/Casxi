@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Having backgrounds in both software and electrical engineering, I've made use of my code in many different sub-fields and aspects.
+I'm not just a programmer though! I also enjoy photography, travel, Chinese calligraphy, painting, and playing video games :) Being able to use my creativity from other places has shown me creative approaches of designing and approaching problems, in order to think outside of the box.
 <!--
 **Casxi/Casxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
